@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=PolishFighter%20&fontAlignY=40&color=gradient)
 ### Hi there 👋
 
 <!--
