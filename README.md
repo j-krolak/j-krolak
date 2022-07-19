@@ -4,4 +4,4 @@ I am Jakub Królak.  I'm working on my algorithmic skills. <br>
 <h2>Skills</h2>
 <img src="https://skillicons.dev/icons?i=cpp,cs,unity,pr,html,css">
 <h2>Contact</h2>
-<a href="https://discordapp.com/users/816286177137131530" target="_blank"><img src="https://skillicons.dev/icons?i=discord"></a>
+<a href="https://discordapp.com/users/816286177137131530"><img src="https://skillicons.dev/icons?i=discord"></a>
