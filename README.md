@@ -1,5 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=PolishFighter%20&fontAlignY=45&animation=fadeIn&color=0:FF5D3D,100:3dc5ff&fontColor=FFFFFF)
-
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/nihadenes/count.svg" />
+</p>
 ### Hi there 👋
 I am Jakub Królak.  I'm working on my algorithmic skills.
 
