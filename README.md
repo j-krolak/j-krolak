@@ -2,6 +2,7 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/PolishFighter/count.svg" />
 </p>
+
 ### Hi there 👋
 I am Jakub Królak.  I'm working on my algorithmic skills.
 
