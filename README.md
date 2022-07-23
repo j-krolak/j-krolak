@@ -9,11 +9,11 @@ I am Jakub Królak.  I'm working on my algorithmic skills. <br>
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=PolishFighter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="nihadenes's Github Stats" width="60%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polishfighter&theme=tokyonight" width="37%" alt="Polishfighter's Top Languages">
 
-# Skills
+### Skills
 <img src="https://skillicons.dev/icons?i=cpp,cs,linux,bash,python,unity,arduino,pr,html,css">
 
-# Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,git">
 
-# Contact
+### Contact
 <a href="https://discordapp.com/users/816286177137131530"><img src="https://skillicons.dev/icons?i=discord"></a>
