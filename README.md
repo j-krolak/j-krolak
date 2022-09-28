@@ -10,7 +10,7 @@ I am Jakub Królak.  I'm working on my algorithmic skills.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polishfighter&theme=tokyonight" width="37%" alt="Polishfighter's Top Languages">
 
 ### :muscle: Skills
-<img src="https://skillicons.dev/icons?i=cpp,cs,linux,bash,python,unity,arduino,pr,html,css">
+<img src="https://skillicons.dev/icons?i=cpp,cs,linux,bash,unity,arduino,pr,html,css">
 
 ### :wrench: Tools
 <img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,git">
