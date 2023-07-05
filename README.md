@@ -3,11 +3,5 @@
 ### Hi there 👋
 I am Jakub Królak.  I'm working on my algorithmic skills.
 
-### :muscle: Skills
-<img src="https://skillicons.dev/icons?i=cpp,cs,linux,bash,unity,arduino,pr,html,css">
-
-### :wrench: Tools
-<img src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,git">
-
 ### :telephone_receiver: Contact
 <a href="https://discordapp.com/users/816286177137131530"><img src="https://skillicons.dev/icons?i=discord"></a>
