@@ -7,7 +7,7 @@ GIF by [Lincoln Kraizy](https://www.pinterest.com/pin/37858453112090139/) on [Pi
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:j4kubkr0lak@gmail.com?subject=Hello%20Jakub,%20From%20Github)
 ## 💻 My Tech Stack
 [![TypeScript,JavaScript,NodeJS,ReactJS,NextJS,Tailwindcss,Prisma,vim,git](https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwindcss,prisma,vim,git)](https://skillicons.dev)
-## 🏆 My Stats:
+## 🏆 My Stats
 <picture>
   <source
     srcset="https://streak-stats.demolab.com/?user=j-krolak&theme=dark"
